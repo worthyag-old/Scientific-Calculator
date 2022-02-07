@@ -1,4 +1,5 @@
-#Simple Calculator  
+#Simple Calculator
+
 A simple calculator with the following operations:  
 -addition  
 -subtraction  
