@@ -9,3 +9,5 @@
 - fractions  
 - square root  
 - absolute value
+  
+**Still working on some of the operations.
