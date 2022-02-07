@@ -1,4 +1,4 @@
-# Simple calculator
+# Simple Scientific Calculator
 
 ### A simple calculator with the following operations:  
 - addition  
